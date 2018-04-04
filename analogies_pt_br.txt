@@ -13160,8 +13160,8 @@ código de codificação grito gritando
 código de codificação ver vendo
 código de codificação shuffle baralhar
 codificação de código cantar cantar
-codificação de código sente-se sentado
-codificação de código lentidão lenta
+codificação de código sentar sentado
+codificação de código devagar lenta
 código de codificação nadar natação
 código de codificação pensar pensando
 codificação de código desaparecer desaparecendo
@@ -13191,7 +13191,7 @@ dança dança grita gritando
 dançar dançar ver vendo
 dance dancing shuffle shuffling
 dança dançar cantar cantar
-dança dança sente-se sentado
+dança dança sentar sentado
 dança dança lenta desaceleração
 dança dança natação natação
 dança dança pensar pensando
@@ -13200,7 +13200,7 @@ dança dança caminhada caminhada
 dança de dança escrever
 dança código de dança
 Depuração Depuração Diminuir Diminuindo
-depuração de depuração descreve descrevendo
+depuração de depuração descrever descrevendo
 Depurar Depuração Descoberta Descoberta
 debugar a depuração realçar realçar
 depurar depuração voar voar
@@ -13210,19 +13210,19 @@ depuração de depuração implemento de implementação
 debug debugging aumentar aumentando
 depuração de depuração inventar inventar
 depuração depuração salto saltar
-depuração depuração escuta escuta
+depuração depuração escutar escuta
 depuração depuração olhar olhando
 Depurar depuração mover em movimento
 debug debugging jogar jogando
 depuração de depuração prever previsão
 depuração de leitura de depuração
 debug debugging executado em execução
-debugar a depuração diz dizer
+debugar a depuração dizer dizer
 depuração debugging gritar gritando
 depuração de depuração ver vendo
 depuração de depuração aleatória shuffle
 depuração depuração cantar cantar
-depuração depuração sente-se sentado
+depuração depuração sentar sentado
 depuração de depuração lenta desaceleração
 depurar depuração nadar natação
 debug debugging pensar pensando
@@ -13241,7 +13241,7 @@ diminuir decrescente implementação do implemento
 diminuir diminuir aumentar aumentar
 diminuir a invenção inventar diminuindo
 diminuir salto de salto decrescente
-diminuir diminuir escuta escuta
+diminuir diminuir escutar escuta
 diminuir diminuindo olhar olhando
 diminuir movimento decrescente em movimento
 diminuir a diminuição do jogo
@@ -13253,7 +13253,7 @@ diminuir diminuir gritando gritar
 diminuir diminuindo ver vendo
 diminuir o embaralhamento aleatório decrescente
 diminuir diminuindo canto cantando
-diminuir diminuindo sente-se sentado
+diminuir diminuindo sentar sentado
 diminuir diminuir desaceleração lenta
 diminuir a natação diminuindo nadar
 diminuir diminuindo pensar pensar
@@ -13272,7 +13272,7 @@ descrever a implementação do implemento de descrição
 descrever descrevendo aumento aumentando
 descrever descrevendo inventar inventando
 descrever descrevendo salto pulando
-descrever descrevendo escuta escuta
+descrever descrevendo escutar escuta
 descrever descrevendo olhar olhando
 descrever descrevendo movimento em movimento
 descrever descrevendo o jogo
@@ -13284,7 +13284,7 @@ descrever descrevendo gritar gritando
 descrever descrevendo ver ver
 descrever descrevendo shuffle shuffling
 descrever descrevendo cantar cantar
-descrever descrevendo sente-se sentado
+descrever descrevendo sentar sentado
 descrever descrevendo desaceleração lenta
 descrever descrevendo natação nadar
 descrever descrevendo pensar pensar
@@ -13315,7 +13315,7 @@ descobrir descobrir gritando gritar
 descobrir descobrir ver
 descobrir descobrir baralhar baralhar
 descobrir descobrir cantando cantar
-descobrir descobrindo sente-se sentado
+descobrir descobrindo sentar sentado
 descobrir descobrir desaceleração lenta
 descubra a descoberta da natação
 descobrir descobrir pensar pensar
@@ -13328,7 +13328,7 @@ descobrir descobrir depuração de depuração
 descobrir descobrir diminuir diminuir
 descobrir descobrindo descrever descrevendo
 melhorar o vôo de voar
-melhorar aumentar gerar gerar
+melhorar melhorar gerar gerar
 melhorar a ir indo
 melhorar a implementação do implemento
 Aumentar Aumentar Aumentar Aumentar Aumentar
@@ -13347,7 +13347,7 @@ melhorar melhorando ver vendo
 melhorar o embaralhamento aleatório aprimorado
 melhorar o canto cantando
 melhorar melhorar sentando sentado
-melhorar aprimorando lentidão lenta
+melhorar aprimorando devagar lenta
 melhorar a natação nadar
 melhorar o pensamento de pensar
 melhorar melhorar desaparecendo desaparecer
@@ -13365,7 +13365,7 @@ fly flying implementar implementação
 voar voando aumentar aumentando
 voar voando inventar inventar
 voar voando salto pulando
-voa voando escuta escutar
+voa voando escutar escutar
 voar voando olhar olhando
 voando voar movimento em movimento
 voar voando jogar jogando
@@ -13377,7 +13377,7 @@ voar voando gritar gritando
 voar voando ver vendo
 fly shuffle shuffling de voar
 voar voando cantar cantar
-voar voando sente-se sentado
+voar voando sentar sentado
 voar voando lenta desaceleração
 voar voando nadar natação
 voar voando pensar pensando
@@ -13396,7 +13396,7 @@ gerar implementação de implementos de geração
 gerar gerando aumento aumentando
 gerar gerar inventar inventar
 gerar gerar salto pulando
-gerar gerando escuta escuta
+gerar gerando escutar escuta
 gerar gerando olhar olhando
 gerar gerar movimento em movimento
 gerar gerar jogo jogando
@@ -13409,7 +13409,7 @@ gerar gerar ver ver
 gerar geração de embaralhamento aleatório
 gerar gerando cantar cantar
 gerar gerar sentar sentado
-gerar gerar lentidão lenta
+gerar gerar devagar lenta
 gerar gerar natação nadar
 gerar gerar pensar pensar
 gerar geração desaparecendo desaparecer
@@ -13501,7 +13501,7 @@ aumentar o aumento gritando gritar
 aumentar aumentando ver vendo
 aumentar o embaralhamento aleatório crescente
 aumentar aumentando cantar cantar
-aumentar cada vez mais sente-se sentado
+aumentar cada vez mais sentar sentado
 aumentar aumento lento retardando
 aumentar a natação crescente
 aumentar aumento pensar pensar
@@ -13532,10 +13532,10 @@ invente inventando grito gritando
 invente inventando ver vendo
 inventar inventando shuffle baralhar
 invente inventando cantar cantar
-invente inventando sente-se sentado
-invente inventando lentidão lenta
+invente inventando sentar sentado
+invente inventando devagar lenta
 invente inventando natação nadar
-invente inventando pense pensando
+invente inventando pensar pensando
 invente inventando desaparecer desaparecendo
 inventar inventando andar a pé
 invente inventando escrever escrita
@@ -13563,7 +13563,7 @@ salto pulando grito gritando
 salto pulando ver vendo
 salto saltando baralhar embaralhando
 salto pulando cante cantando
-salto pulando sente-se sentado
+salto pulando sentar sentado
 saltar pulando devagar
 salto pulando nadar natação
 salto pulando pensar pensando
@@ -13594,10 +13594,10 @@ ouvir escutar gritar gritando
 ouça escutando veja vendo
 ouvir baralhar de ouvir baralhar
 ouvir ouvir cantar cantar
-escutar escutando sente-se sentado
+escutar escutando sentar sentado
 escute escutando retardando lento
 escutar escutando nadar natação
-ouça a escuta pense pensando
+ouça a escuta pensar pensando
 ouvir escutar desaparecer desaparecendo
 escutar escutando andar caminhando
 ouvir ouvir escrever escrever
@@ -13625,10 +13625,10 @@ olhe olhando grito gritando
 olha olhando vendo vendo
 olha procurando shuffle baralhar
 olhe procurando cante cantando
-olhe procurando sente-se sentado
+olhe procurando sentar sentado
 olha olhando lento retardando
 olhar procurando nadar natação
-olha olha pensa pensando
+olha olha pensando
 olhe procurando desaparecendo desaparecendo
 olhe procurando andar caminhando
 olha procurando escrever escrever
@@ -13646,7 +13646,7 @@ olha procurando implementando implementar
 olhe procurando aumentar aumento
 olha procurando inventar inventar
 olhe procurando salto pulando
-olha olha escuta escuta
+olha olha escutar escuta
 mover mover jogar
 mover em movimento predizer a previsão
 mover-se leitura de leitura em movimento
@@ -13661,7 +13661,7 @@ movimento em movimento lenta desaceleração
 mover-se nadar nadar
 mover em movimento pensar pensar
 mover-se desaparecer desaparecer
-mover andando andando andando
+mover andando andou andando
 mover-se escrever escrever
 mover código de código em movimento
 mover a dança da dança em movimento
@@ -13749,13 +13749,13 @@ leia lendo grito gritando
 leia lendo veja vendo
 leia lendo shuffle shuffling
 leia lendo cante cantando
-leia a leitura sente-se sentado
+leia a leitura sentar sentado
 leia lendo lenta desaceleração
 leia lendo nadar natação
-leia lendo pense pensando
+leia lendo pensar pensando
 leia a leitura desaparecer desaparecer
 leia lendo caminhada caminhando
-leia lendo escreva escrevendo
+leia lendo escrever escrevendo
 leitura de codificação de código de leitura
 leia a leitura dance dance
 leitura de leitura depuração de depuração
@@ -13783,7 +13783,7 @@ correr correndo cantar cantar
 correr correndo sentar sentado
 correr correndo lento retardando
 correr correndo nadar natação
-corra correndo pense pensando
+corra correndo pensar pensando
 correr correndo desaparecer desaparecendo
 correr correr caminhar andar
 correr correndo escrever escrevendo
@@ -13811,10 +13811,10 @@ dizer dizendo gritar gritando
 dizer dizendo ver ver
 dizer dizendo baralhar baralhar
 dizer dizendo cantar cantar
-dizer dizendo sente-se sentado
+dizer dizendo sentar sentado
 dizer dizendo lento retardando
 dizer dizendo nadar natação
-diga dizendo pense pensando
+diga dizendo pensar pensando
 dizer dizendo desaparecer desaparecendo
 dizer dizendo andar a pé
 dizer dizendo escrever
@@ -13842,10 +13842,10 @@ dizer dizendo correr correndo
 gritar gritando ver vendo
 gritar gritando baralhar baralhar
 gritar gritando cantar cantar
-gritar gritar sente-se sentado
+gritar gritar sentar sentado
 gritar gritando lento retardando
 gritar gritar nadar natação
-gritar gritar acho que pensar
+gritar gritar pensar pensar
 gritar gritando desaparecer desaparecer
 gritar gritar caminhar andar
 gritar gritando escrever escrever
@@ -13874,7 +13874,7 @@ gritar gritando dizer dizendo
 veja vendo baralhar embaralhando
 veja vendo cantar cantando
 veja vendo sentar sentado
-veja vendo lentidão lenta
+veja vendo devagar lenta
 veja ver nadar natação
 veja vendo pensar pensando
 veja vendo desaparecer desaparecendo
@@ -13904,7 +13904,7 @@ veja vendo correr correndo
 veja vendo dizer dizendo
 veja vendo grito gritando
 shuffle baralhar cantar cantar
-shuffle baralhar sente-se sentado
+shuffle baralhar sentar sentado
 shuffle shuffling lento retardando
 baralhar baralhar nadar natação
 shuffle baralhar pensar pensando
@@ -13967,38 +13967,38 @@ cantar cantando dizer dizendo
 cante cantando grito gritando
 cantar cantando ver vendo
 cantar cantando shuffle baralhar
-sente-se sentado lento retardando
-sente-se sentado nadar natação
-sente-se sentado pense pensando
-sente-se sentado sumira desaparecendo
+sentar sentado lento retardando
+sentar sentado nadar natação
+sentar sentado pensar pensando
+sentar sentado sumira desaparecendo
 sentar sentado caminhar andar
 sentar sentado escrever escrever
-sente-se sentado código de codificação
-sente-se sentado dança dança
-sente-se sentado depuração de depuração
-sente-se sentado diminuir diminuindo
+sentar sentado código de codificação
+sentar sentado dança dança
+sentar sentado depuração de depuração
+sentar sentado diminuir diminuindo
 sentar sentado descrever descrevendo
-sente-se sentado descobrir descobrindo
-sente-se sentado melhorar
+sentar sentado descobrir descobrindo
+sentar sentado melhorar
 sentar sentado voar voar
-sente-se sentado gerar gerando
-sente-se sentado vai
-sente-se sentado implementar implementação
-sente-se sentado aumento aumentando
-sente-se sentado invente inventando
-sente-se sentado salte pulando
-sente-se sentado ouça ouvindo
+sentar sentado gerar gerando
+sentar sentado vai
+sentar sentado implementar implementação
+sentar sentado aumento aumentando
+sentar sentado invente inventando
+sentar sentado salte pulando
+sentar sentado ouça ouvindo
 sentar sentado olhar olhar
-sente-se sentado movimento em movimento
+sentar sentado movimento em movimento
 sentar sentado jogar jogar
-sente-se sentado prever prever
+sentar sentado prever prever
 sentar sentado ler ler
-sente-se sentado corra correndo
-sente-se sentado diga dizendo
-sente-se sentado grito gritando
-sente-se sentado veja vendo
-sente-se sentado shuffle baralhar
-sente-se sentado cante cantando
+sentar sentado corra correndo
+sentar sentado diga dizendo
+sentar sentado grito gritando
+sentar sentado veja vendo
+sentar sentado shuffle baralhar
+sentar sentado cante cantando
 natação lenta e lenta
 lenta desaceleração pensar pensando
 lento retardando desaparecendo desaparecendo
@@ -14007,7 +14007,7 @@ lenta retardando escrever escrever
 codificação de código lenta e lenta
 dança lenta de dança lenta
 depuração lenta de depuração lenta
-lento retardando diminuição diminuindo
+lento retardando diminuir diminuindo
 desaceleração lenta descrever descrevendo
 desaceleração lenta descobrir descobrir
 desaceleração lenta melhora aprimorando
@@ -14030,7 +14030,7 @@ grito retardando lento gritando
 lenta desaceleração ver vendo
 lento arrastando baralhar lento
 lenta retardando cantar cantar
-lento retardando sente-se sentado
+lento retardando sentar sentado
 nadar natação pensar pensando
 nadar natação desaparecer desaparecer
 nadar natação andar a pé
@@ -14064,37 +14064,37 @@ nadar natação cantar cantar
 nadar natação sentar sessão
 nadar nadando devagar
 acho que o pensamento desaparece desaparecendo
-acho que pensar andar a pé
-acho que pensar escrever escrever
+pensar pensar andar a pé
+pensar pensar escrever escrever
 pense codificação de código de pensamento
-pense pensando dançando dança
-pense pensando depuração de depuração
-acho que pensar diminuindo diminui
-acho que o pensamento descreve descrevendo
-acho que pensar descobrir descobrir
+pensar pensando dançando dança
+pensar pensando depuração de depuração
+pensar pensar diminuindo diminui
+acho que o pensamento descrever descrevendo
+pensar pensar descobrir descobrir
 acho que o pensamento aprimora o aprimoramento
-pense pensando voar voar
-acho que pensar gerar gerar
-acho que pensar vai
-acho que pensando implementando implementar
-pense pensando aumento aumentando
-acho que pensar inventar inventar
-pense pensando salto pulando
-pense pensando ouça escutando
-pense pensando olha olhando
+pensar pensando voar voar
+pensar pensar gerar gerar
+pensar pensar vai
+pensar pensando implementando implementar
+pensar pensando aumento aumentando
+pensar pensar inventar inventar
+pensar pensando salto pulando
+pensar pensando ouça escutando
+pensar pensando olha olhando
 acho que o pensamento se move em movimento
-pense pensando jogar jogando
-pense pensando prever prever
-pense pensando ler leitura
-acho que pensar correu correndo
-pense pensando dizer dizendo
-pense pensando gritar gritando
-acho que pensar ver ver
+pensar pensando jogar jogando
+pensar pensando prever prever
+pensar pensando ler leitura
+pensar pensar correu correndo
+pensar pensando dizer dizendo
+pensar pensando gritar gritando
+pensar pensar ver ver
 acho baralhar shuffle pensando
-acho que pensar cantar cantar
-pense pensando sente-se sentado
-pense pensando lento retardando
-pense pensando nadar natação
+pensar pensar cantar cantar
+pensar pensando sentar sentado
+pensar pensando lento retardando
+pensar pensando nadar natação
 desaparecer desaparecer andar a pé
 desaparecer desaparecer escrevendo escrever
 desaparecer código de fuga codificação
@@ -14123,7 +14123,7 @@ desaparecer grito desaparecendo gritando
 desaparecer desaparecendo ver vendo
 desaparecer shimmerle shuffle shuffling
 desaparecer desaparecer cantar cantar
-desaparecer desaparecer sente-se sentado
+desaparecer desaparecer sentar sentado
 desaparecer desaparecendo lento retardando
 desaparecer nadar nadando
 desaparecer desaparecendo pensar pensar
@@ -14185,8 +14185,8 @@ escrever escrevendo gritar gritando
 escrever escrevendo ver vendo
 escrever escrevendo shuffle shuffling
 escrever escrever cantar cantar
-escrever escrevendo sente-se sentado
-escrever escrevendo lentidão lenta
+escrever escrevendo sentar sentado
+escrever escrevendo devagar lenta
 escrever escrito natação nadar
 escrever escrito pensar pensando
 escrever escrita desaparecer desaparecer
@@ -15981,7 +15981,7 @@ caindo caiu natação nadou
 caindo caiu tomando levou
 caindo caiu pensando pensamento
 caindo caiu desaparecendo desapareceu
-caindo caiu andando andando
+caindo caiu andando andou
 caindo caiu escrevendo escreveu
 caindo caiu dançando dançou
 caindo caiu diminuindo diminuiu
@@ -16171,7 +16171,7 @@ escondendo a natação escondida nadou
 escondendo escondeu tomando levou
 escondendo pensamento oculto
 escondendo escondido desaparecer desaparecido
-escondendo-se andando a pé
+escondendo-se andando andou
 escondendo escondeu escrita escreveu
 escondendo a dança escondida dançada
 escondendo escondido diminuindo diminuiu
@@ -16247,7 +16247,7 @@ implementando natação nadada implementada
 implementação implementada tendo levado
 implementando pensamento pensativo implementado
 implementando desaparecimento implementado desapareceu
-implementação implementada andando andando
+implementação implementada andando andou
 implementando escrita escrita escreveu
 implementando dança dançada implementada
 implementação implementada decrescente diminuiu
@@ -16323,7 +16323,7 @@ pulando pular natação nadou
 saltando saltou tendo levado
 saltando saltou pensando pensamento
 saltando saltou desaparecendo desapareceu
-pulando pular andando andando
+pulando pular andando andou
 saltando saltou escrevendo escreveu
 pulando pulou dançando dançou
 pulando pulou diminuindo diminuiu
@@ -16475,7 +16475,7 @@ movendo nadando movido nadou
 movendo-se mudou tomando levou
 movendo-se movido pensando pensamento
 movendo movido desaparecendo desapareceu
-movendo andando andando andou
+movendo andando andou andou
 movendo-se movido escrevendo escreveu
 movendo-se movido a dançar dançou
 movendo movido diminuindo diminuiu
@@ -16513,7 +16513,7 @@ pagando natação paga nadou
 pagando tendo pago levou
 pagando pensamento pensado pago
 pagando desaparecimento pago desapareceu
-pagando andando andando andou
+pagando andando andou andou
 pagando escrita escrita escreveu
 pagando a dança paga dançou
 pagando pago diminuindo diminuiu
@@ -16589,7 +16589,7 @@ prevendo natação prevista nadou
 prevendo tomada prevista levou
 prevendo o pensamento previsto
 prevendo desaparecimento previsto desapareceu
-prevendo previsto andando andando
+prevendo previsto andando andou
 prevendo escrita prevista escreveu
 prevendo dança prevista dançada
 prevendo diminuir previsto diminuiu
@@ -16665,7 +16665,7 @@ correndo correu nadando nadou
 correndo correu levando levou
 correndo correu pensamento pensativo
 correndo correu desaparecendo desapareceu
-correndo correu andando andando
+correndo correu andando andou
 correndo correu escrevendo escreveu
 correndo correu dançando dançou
 correndo correu diminuindo diminuiu
@@ -16703,7 +16703,7 @@ dizendo que a natação nadou
 dizendo que a tomada levou
 dizendo disse pensamento pensando
 dizendo que desapareceu desaparecer
-dizendo disse andando andando
+dizendo disse andando andou
 dizendo disse escrita escreveu
 dizendo ditado dançando dançou
 dizendo disse diminuindo diminuiu
@@ -16741,7 +16741,7 @@ gritando gritou natação nadou
 gritando gritou levando levou
 gritando gritou pensamento pensativo
 gritando gritado desaparecendo desapareceu
-gritando gritado andando andando
+gritando gritado andando andou
 gritando gritando escreveu escreveu
 gritando gritou dançando dançou
 gritando gritou diminuindo diminuiu
@@ -16779,7 +16779,7 @@ vendo viu natação nadou
 vendo viu levando levou
 vendo viu pensando pensamento
 vendo viu desaparecendo desapareceu
-vendo viu andando andando
+vendo viu andando andou
 vendo viu escrita escreveu
 vendo viu dançando dançou
 vendo diminuindo diminuiu
@@ -16855,7 +16855,7 @@ encolhendo encolheu natação nadou
 encolhendo encolheu tomando levou
 Encolhimento encolhido pensamento pensamento
 encolhendo encolheu desaparecer desapareceu
-encolhendo encolheu andando andando
+encolhendo encolheu andando andou
 encolhendo encolheu escrito escreveu
 encolhendo encolheu dançando dançou
 encolhendo encolheu diminuindo diminuiu
@@ -16931,7 +16931,7 @@ sentado sentado nadando nadou
 sentado sentou tomando levou
 sentado sentado pensando pensamento
 sentado sentado desaparecendo desapareceu
-sentado sentou andando andando
+sentado sentou andando andou
 sentado sentado escrevendo escreveu
 sentado sentado dançando dançou
 sentado sentou diminuindo diminuiu
@@ -17045,7 +17045,7 @@ gastar gasto nadando nadou
 gastos gastos tendo levado
 gastar gasto pensando pensamento
 gastos gastos desaparecendo desaparecidos
-gastos gastos andando andando
+gastos gastos andando andou
 gastos gastos escrevendo escreveu
 gastando gasto dançando dançou
 gasto gasto diminuindo diminuiu
@@ -17197,7 +17197,7 @@ tomando levou gastos gastos
 tomada levou impressionante atingido
 tomando levou natação nadou
 pensando pensamento desaparecendo desapareceu
-pensamento pensamento andando andando
+pensamento pensamento andando andou
 pensando pensamento escrevendo escreveu
 pensando o pensamento dançando dançou
 pensamento pensamento diminuindo diminuiu
@@ -17284,10 +17284,10 @@ andando andou alimentando alimentado
 andando andou voando voou
 andando andou gerando gerado
 andando andou indo passou
-Andando a pé escondido escondendo
+andando andou escondido escondendo
 andando caminhou batendo hit
 andando andou implementando implementado
-andando andando aumentando aumentado
+andando andou aumentando aumentado
 andando andou pulando pulou
 andando andava sabendo sabia
 andando caminhou ouvindo escutou
@@ -17298,12 +17298,12 @@ andando andou jogando jogado
 andando andou prevendo previsto
 andando andou lendo ler
 andando andou correndo correu
-andando andando dizendo disse
+andando andou dizendo disse
 andando andou gritando gritou
-andando andando vendo viu
+andando andou vendo viu
 andando andou vendendo vendido
 andando caminhou encolhendo encolheu
-andando andando cantando cantou
+andando andou cantando cantou
 andando andou sentado sentado
 andando andou dormindo dormiu
 andando andava diminuindo a velocidade
@@ -17383,7 +17383,7 @@ bananas de banana macacos de macaco
 bananas bananas ratos
 banana bananas cebola cebolas
 peras de banana peras de pera
-bananas de banana porco suínos
+bananas banana porco suínos
 bananas abacaxi abacaxi
 ratos de banana bananas de rato
 estradas de banana bananas
@@ -18686,153 +18686,153 @@ ratos de rato de mulheres mulher
 estradas de estrada de mulheres de mulher
 cobras de cobra de mulheres mulher
 : gram9-plural-verbos
-diminuir diminui descreve descreve
-diminuir diminui come come
-diminuir diminui diminui aumenta
+diminuir diminui descrever descreve
+diminuir diminui comer come
+diminuir diminuir diminui aumenta
 diminuir diminui estimativas estimadas
 diminuir diminui encontra achados
-diminuir diminui gera gerar
-diminuir diminui vai vai
+diminuir diminui gerar gerar
+diminuir diminui ir vai
 diminuir diminui implementa implementos
 diminuir diminui aumenta aumenta
-diminuir diminui diminui escuta escuta
-Diminui Diminui Jogadas
+diminuir diminuir diminui escutar escuta
+diminuir diminui Jogadas
 diminuir diminui prevê prever
 diminuir diminui fornece fornecer
-diminuir diminui diz diz
+diminuir diminui dizer diz
 diminuir diminui gritos de grito
 diminuir diminui as pesquisas
 diminuir diminui vê ver
-diminuir diminui shuffle shuffles
+diminuir diminui embaralhar embaralha
 diminuir diminui canta cantar
-diminuir diminui senta senta
-diminuição diminui lentidão lenta
-diminuir diminui fala fala
+diminuir diminui sentar senta
+diminuir diminui devagar lenta
+diminuir diminui falar fala
 diminuir diminui nadar nada
 diminuir diminui fala palestras
-diminuir diminui pensa pensa
+diminuir diminui pensa
 diminuir diminui desaparece desaparece
-diminuir diminui anda anda
-diminuir diminui trabalhos de trabalho
+diminuir diminui andar anda
+diminuir diminui trabalhar de trabalho
 diminuir diminui escreve escreve
-descrever descreve come come
+descrever descreve comer come
 descrever descreve melhora aumenta
 descrever descreve estimativas estimadas
 descrever descreve encontra achados
 descrever descreve gerar gera
-descrever descreve vai vai
+descrever descreve ir vai
 descrever descreve implementos do implemento
 descrever descreve aumento aumenta
-descrever descreve escuta escuta
-descreve descreve jogadas
+descrever descreve escutar escuta
+descrever descreve jogadas
 descrever descreve predizer prevê
 descrever descreve fornece fornecer
-descrever descreve diz diz
+descrever descreve dizer diz
 descrever descreve gritos de grito
-descrever descreve pesquisas de pesquisa
+descrever descreve pesquisar pesquisa
 descrever descreve ver vê
-descrever descreve shuffle shuffles
+descrever descreve embaralhar embaralha
 descrever descreve cantar canta
-descrever descreve senta senta
-descrever descreve lentidão lenta
-descrever descreve fala fala
+descrever descreve sentar senta
+descrever descreve devagar lenta
+descrever descreve falar fala
 descrever descreve nadar nada
 descrever descreve conversas de conversação
-descrever descreve acha que pensa
+descrever descreve pensar pensa
 descrever descreve desaparece desaparece
 descrever descreve caminhadas
 descrever descreve obras
 descrever descreve escreve escreve
-descrever descreve diminuição diminui
-comer come melhorar aumenta
-comer come estimativa estimativas
+descrever descreve diminuir diminui
+comer come melhorar melhora
+comer come estimar estima
 comer come encontrar achados
 comer come gerar gera
 comer come ir vai
 comer come implemento implementa
-come come aumento aumenta
-comer come escuta escuta
-come come joga joga
+comer come aumento aumenta
+comer come escutar escuta
+comer come jogar joga
 comer come prever prevê
 comer come fornece fornece
-come come diz diz
-come come grita grita
-comer come pesquisas de pesquisa
+comer come dizer diz
+comer come grita grita
+comer come pesquisar pesquisa
 comer come ver vê
-come come shuffle shuffles
+comer come embaralhar embaralha
 comer come cantar canta
-comer come sente-se senta
-comer come lentidão lenta
-comer come fala fala
+comer come sentar senta
+comer come devagar lenta
+comer come falar fala
 comer come nada nada
-come come conversa fala
-comer come pensa pensa
+comer come falar fala
+comer come pensa
 comer come desaparece desaparece
-comer come anda anda
-come come obras de trabalho
+comer come andar anda
+comer come obras de trabalho
 comer come escrever escreve
 comer come diminuir diminui
 comer come descrever descreve
-melhorar aumenta estimativas estimadas
+melhorar melhora estimativas estimadas
 melhorar aprimora encontrar achados
-melhorar aumenta gera gerar
-melhorar aumenta vai vai
+melhorar melhora gerar gerar
+melhorar melhora ir vai
 melhora aprimora implementa implementos
-melhorar aumenta aumenta aumenta
-melhorar aprimora escuta escuta
+melhorar melhora aumenta aumenta
+melhorar aprimora escutar escuta
 melhorar aprimora as jogadas
-melhorar aumenta prediz predições
+melhorar melhora prediz predições
 melhorar aprimora fornecer fornece
-melhorar aumenta diz diz
-melhorar aumenta gritos de grito
-melhorar aprimora pesquisas de pesquisa
-melhorar aumenta vê vê
-melhorar aprimora shuffle shuffles
-melhorar aumenta canta cantar
-melhorar aumenta sente senta
-aumentar aumenta lentidão lenta
-melhorar aumenta fala fala
-melhorar aumenta nadar nada
+melhorar melhora dizer diz
+melhorar melhora gritos de grito
+melhorar aprimora pesquisar pesquisa
+melhorar melhora ver vê
+melhorar aprimora embaralhar embaralha
+melhorar melhora canta cantar
+melhorar melhora sente senta
+aumentar aumenta devagar lenta
+melhorar melhora falar fala
+melhorar melhora nadar nada
 melhorar aprimora conversas de conversação
-melhorar aumenta pensa pensa
-melhorar aumenta desaparece desaparece
-melhorar aumenta passeios a pé
-melhorar aprimora trabalhos
+melhorar melhora pensa
+melhorar melhora desaparece desaparece
+melhorar melhora passeios a pé
+melhorar aprimora trabalhar
 melhorar melhora escreve escreve
-melhorar aumenta diminui diminui
+melhorar melhora diminuir diminui
 melhorar aprimora descrever descreve
-melhorar aumenta come come
+melhorar melhora comer come
 estimar estimativas encontrar achados
 estimar estimativas gerar gera
-estimar estimativas vai vai
+estimar estimativas ir vai
 estimar estimativas implementar implementos
 estimar estimativas aumentar aumentos
 estimar estimativas ouvir escuta
 estimar estimativas jogar jogadas
-estimativa estimativas predizer prevê
-estimativa estimativas fornecem fornece
-estima estimativas estima diz
+estimar estima predizer prevê
+estimar estima fornecem fornece
+estimar estima estima diz
 estimar estimativas gritar gritos
-estimar pesquisas de pesquisa de estimativas
+estimar pesquisar pesquisa de estimativas
 estimar estimativas ver vê
-estimar estimativas shuffle shuffles
+estimar estimativas embaralhar embaralha
 estimar estimativas cantam canta
 estimar estimativas sit senta
-estimar estimativas lentidão lenta
-estimar estimativas fala fala
-estimativa estimativas nadar nada
-estimar estimativas falar palestras
-estimar estimativas acha que pensa
+estimar estimativas devagar lenta
+estimar estimativas falar fala
+estimar estima nadar nada
+estimar estimativas falar fala
+estimar estimativas pensar pensa
 estimativas estimadas desaparecem desaparece
 estimar estimativas andar anda
 estimar estimativas de obras
 estimar estimativas escrever escritas
 estimar estimativas diminuir diminui
 estimar estimativas descrevem descreve
-estimativa estimativas comer come
-estimativa estimativas aumentam aumenta
+estimar estima comer come
+estimar estima aumentam aumenta
 encontrar encontra geram gera
-encontrar encontra vai vai
+encontrar encontra ir vai
 encontrar encontra implemento implementa
 encontrar encontra aumento aumenta
 encontrar encontra escuta ouve
@@ -18840,247 +18840,246 @@ encontrar encontra jogar joga
 encontrar encontra predizer prediz
 encontrar encontra fornecer fornece
 encontrar encontra dizer diz
-achado encontra gritos de grito
-encontrar pesquisas de pesquisa
+encontrar encontra gritos de grito
+encontrar pesquisar pesquisa
 encontrar encontra ver vê
 encontrar encontra embaralhamentos aleatórios
 encontrar encontra cantar canta
-encontrar encontra sente-se senta
-encontrar encontra lentidão lenta
-encontrar encontra fala fala
+encontrar encontra sentar senta
+encontrar encontra devagar lenta
+encontrar encontra falar fala
 encontrar encontra nadar nada
 encontrar encontra palestras
 encontrar encontra pensar pensa
-achado encontra desaparece desaparece
+encontrar encontra desaparece desaparece
 encontrar encontra andar a pé
-encontrar encontra trabalhos
+encontrar encontra trabalhar
 encontrar encontra escreve escreve
-encontrar encontra diminui diminui
+encontrar encontra diminuir diminui
 encontrar encontra descrever descreve
 encontrar encontra comer come
 encontrar encontra melhorar aprimora
 encontrar encontra estimativas estimadas
-gerar gera vai vai
+gerar gera ir vai
 gerar gera implementos de implementos
 gerar gera aumento aumenta
-gerar gera escuta escuta
+gerar gera escutar escuta
 gerar gera jogadas
 gerar gera prever prevê
 gerar gera fornecer fornece
-gerar gera diz diz
+gerar gera dizer diz
 gerar gera gritos de grito
-gerar gera pesquisas de pesquisa
+gerar gera pesquisar pesquisa
 gerar gera ver vê
 gerar gera embaralhamentos aleatórios
 gerar gera cantar canta
-gerar gera sente-se senta
-gerar gera lentidão lenta
-gerar gera fala fala
+gerar gera sentar senta
+gerar gera devagar lenta
+gerar gera falar fala
 gerar gera nadar nada
 gerar gera palestras
 gerar gera pensar pensa
 gerar gera desaparece desaparece
 gerar gera passeios a pé
-gerar gera trabalhos
+gerar gera trabalhar
 gerar gera escreve escreve
-gerar gera diminuição diminui
+gerar gera diminuir diminui
 gerar gera descrever descreve
 gerar gera comer come
 gerar gera melhora aumenta
 gerar gera estimativas estimadas
 gerar gera encontrar achados
-vai implementa implementos
-vai vai aumentar aumentos
-vai vai ouvir escuta
-vai vai jogar joga
-vai vai prever prediz
+ir implementa implementos
+ir vai aumentar aumentos
+ir vai ouvir escuta
+ir vai jogar joga
+ir vai prever prediz
 ir vai fornecer fornece
-vai diz que diz
-vai vai gritar gritos
-vai para pesquisas de pesquisa
-vai vai ver vê
-vai vai shuffle shuffles
-vai vai cantar canta
+ir vai dizer diz
+ir vai gritar gritos
+ir vai pesquisar pesquisa
+ir vai ver vê
+ir vai embaralhar embaralha
+ir vai cantar canta
 ir vai sentar senta
-vai vai devagar
-vai vai fala fala
+ir vai devagar
+ir vai falar fala
 vai nadar nada
 vai fala vai falar
-vai vai pensar pensa
-vai vai desaparecer desaparece
-vai vai andar a pé
-vai vai trabalha obras
-vai vai escreve escreve
+ir vai pensar pensa
+ir vai desaparecer desaparece
+ir vai andar a pé
+ir vai trabalha obras
+ir vai escreve escreve
 vai diminui vai diminui
-vai vai descreve descreve
-vai vai comer come
-vai vai melhorar aumenta
+ir vai descrever descreve
+ir vai comer come
+ir vai melhorar melhora
 vão estimativas estimadas
-vai vai encontrar encontra
-vai vai gerar gera
+ir vai encontrar encontra
+ir vai gerar gera
 implementar implementos aumentar aumenta
-implementar implementa escuta escuta
-implementa implementa joga joga
+implementar implementa escutar escuta
+implementa implementa jogar joga
 implementar implementos predizer prevê
-Implementar Implementar Fornece Fornece
-implementar implementa diz diz
+Implementar Implementa Fornecer Fornece
+implementar implementa dizer diz
 implementar implementa gritos de grito
-implementar implementa pesquisas de pesquisa
+implementar implementa pesquisar pesquisa
 implementar implementa ver vê
-implementa implementa shuffle shuffles
+implementa implementa embaralhar embaralha
 implementar implementa cantar canta
 implementar implementa sente senta
-implementar implementa lentidão lenta
-implementa implementa fala fala
+implementar implementa devagar lenta
+implementa implementa falar fala
 implementar implementa nadar nada
 implementa implementa palestras
-implementar implementa acho que pensa
+implementar implementa pensar pensa
 implementar implementos desaparecer desaparece
 implementar implementa passeios a pé
 implementa implementa obras
 implementar implementa escrever escreve
-implementar implementa diminuição diminui
-implementa implements descreve descreve
-implemento implementar come come
+implementar implementa diminuir diminui
+implementa implements descrever descreve
+implemento implementar comer come
 implementa implementa aprimora aprimora
 implementar implementa estimativas estimadas
 implementar implementos encontrar achados
 implementar implementa gerar gera
-implementa implementa vai vai
+implementa implementa ir vai
 aumentar aumenta escute escuta
-aumentar aumenta joga jogar
+aumentar aumenta jogar jogar
 aumentar aumenta prevê prever
 aumento aumenta fornece fornece
-aumentar aumenta diz diz
+aumentar aumenta dizer diz
 aumento aumenta grito grita
 aumentar aumenta pesquisas na pesquisa
 aumentar aumenta ver vê
-Aumentar Aumenta Shuffle Shuffle
 aumentar aumenta cantar canta
-aumentar aumenta sente-se senta
-aumento aumenta lentidão lenta
-aumentar aumenta fala fala
+aumentar aumenta sentar senta
+aumento aumenta devagar lenta
+aumentar aumenta falar fala
 aumento aumenta natação nada
 aumento aumenta palestras
-aumentar aumenta pensa pensa
+aumentar aumenta pensa
 aumentar aumenta desaparece desaparece
 aumentar aumenta caminhadas
-aumento aumenta trabalhos de trabalho
+aumento aumenta trabalhar de trabalho
 aumentar aumenta escreve escreve
-aumentar aumenta diminui diminui
+aumentar aumenta diminuir diminui
 aumento aumenta descrevem descreve
-aumentar aumenta come come
+aumentar aumenta comer come
 aumentar aumenta aumenta aumenta
 aumentar aumenta estimativas estimadas
 aumentar aumenta encontrar achados
 aumentar aumenta gerar gerar
-aumento aumenta vai vai
+aumento aumenta ir vai
 aumenta aumenta implementa implementos
 ouvir escuta tocar peças
 ouça escuta prever prevê
 ouvir escuta fornecer fornece
 ouvir escuta dizer diz
-escute escuta grita gritos
-ouvir escuta pesquisas de pesquisa
+escute escuta gritar grita
+ouvir escuta pesquisar pesquisa
 ouça escuta veja vê
 ouvir escutas embaralhar embaralha
 ouvir escuta cantar canta
 ouvir escuta sente-se
-escute escute lentidão lenta
-ouvir escuta fala fala
+escute escute devagar lenta
+ouvir escuta falar fala
 escute escuta nadar nada
 ouvir escuta conversas
-ouça escuta acha que pensa
+ouça escuta pensar pensa
 escute escuta desaparece desaparece
-escute escuta anda anda
-escute escuta trabalhos de trabalho
+escute escuta andar anda
+escute escuta trabalhar de trabalho
 ouvir escuta escreve escreve
 ouvir escuta diminuir diminui
 ouvir escuta descrever descreve
-ouvir escuta come come
+ouvir escuta comer come
 escutar escutas aprimora aprimora
-ouvir escuta estima estimativas
-escuta escutas encontrar encontra
+ouvir escuta estimar estima
+escutar escutas encontrar encontra
 ouvir escutas geram gera
-ouvir escuta vai vai
+ouvir escuta ir vai
 ouve escuta implementa implementos
 ouvir escuta aumenta aumentos
 jogar execuções prever prediz
 play plays fornece fornece
-jogar joga diz diz
-jogar joga grita gritos
+jogar joga dizer diz
+jogar joga gritar grita
 play reproduz buscas de pesquisa
 jogar jogadas ver vê
 jogar jogadas baralhar baralhar
 jogar joga cantar canta
-jogar joga sente-se senta
-jogar joga lentidão lenta
-jogar joga fala fala
+jogar joga sentar senta
+jogar joga devagar lenta
+jogar joga falar fala
 jogar joga nada nada
-jogar joga fala fala
-jogar joga acho que pensa
+jogar joga falar fala
+jogar joga pensar pensa
 jogar peças desaparecem desaparece
 brincar joga andar anda
-brincar desempenha trabalhos
+brincar desempenha trabalhar
 jogar joga escrever escreve
 jogar execuções diminuir diminui
 jogar jogadas descrevem descreve
-jogar joga come come
-jogar desempenha melhorar aumenta
+jogar joga comer come
+jogar desempenha melhorar melhora
 jogar reproduz estimativas estimadas
 jogar peças encontrar achados
-reproduzir reproduz gera gera
+reproduzir reproduz gerar gera
 jogar joga ir vai
 jogar execuções implementar implementos
 jogar execuções aumentar aumentos
 jogar execuções ouvir escuta
 predizer prevê fornecer fornece
-prever prediz dizer diz
+prever predizer dizer diz
 prever prevê gritos de grito
-prever prevê pesquisas de pesquisa
+prever prevê pesquisar pesquisa
 prever prevê ver vê
-prever prevê shuffle shuffles
+prever prevê embaralhar embaralha
 prever prevê cantar canta
 predizer prevê sit senta
 prever prevê atrasos lentos
-prever prevê fala fala
+prever prevê falar fala
 prever prevê nadar nada
 prever prevê conversas de conversação
-prever prevê pensa pensa
+prever prevê pensa
 prever prevê desaparece desaparece
 prever prevê passeios a pé
 prever prevê obras
 prever prediz escrever escreve
 prever prevê queda diminui
-prever prediz descrever descreve descreve
-prever prevê come come
+prever prediz descrever descrever descreve
+prever prevê comer come
 prever prevê melhora aumenta
 prever prevê estimativas estimadas
 prever prediz encontrar achados
-prever prevê gera gerar
+prever prevê gerar gerar
 prever prevê ir vai
 prever prevê implementa implementos
 prever prevê aumento de aumento
 prever prevê ouvir ouve
 prever prediz jogadas
-fornecer fornece diz diz
+fornecer fornece dizer diz
 fornecer fornece gritos de grito
-fornecer fornece pesquisas de pesquisa
+fornecer fornece pesquisar pesquisa
 fornecer fornece ver vê
 fornecer fornece embaralhamentos aleatórios
 fornecer fornece cantar canta
-fornecer fornece sente-se senta
-fornecer fornece lentidão lenta
-fornecer fornece fala fala
+fornecer fornece sentar senta
+fornecer fornece devagar lenta
+fornecer fornece falar fala
 fornecer fornece nadar nada
 fornecer fornece palestras
-fornecer fornece pensa pensa
+fornecer fornece pensa
 fornecer fornece desaparece desaparece
 fornecer fornece passeios a pé
-fornecer fornece trabalhos de trabalho
+fornecer fornece trabalhar de trabalho
 fornecer fornece escrever escritas
-fornecer fornece diminui diminui
-fornecer fornece descreve descreve
+fornecer fornece diminuir diminui
+fornecer fornece descrever descreve
 fornecer fornece comer come
 fornecer fornece melhora aumenta
 fornecer fornece estimativas estimadas
@@ -19089,48 +19088,48 @@ fornecer fornece gerar gera
 fornecer fornece vai
 fornecer fornece implementos implementados
 fornecer fornece aumento aumenta
-fornecer fornece escuta escuta
+fornecer fornece escutar escuta
 fornecer fornece jogadas
 fornecer prevê predizer prevê
-diz diz grita gritos
-diz diz pesquisas de pesquisa
-diz diz ver vê
-digamos que diz shuffle shuffles
-diz diz canta cantar
-diga diz sente-se senta
-diz diz lentidão lenta
-diz diz fala fala
+dizer diz gritar grita
+dizer diz pesquisar pesquisa
+dizer diz ver vê
+digamos que diz embaralhar embaralha
+dizer diz canta cantar
+diga diz sentar senta
+dizer diz devagar lenta
+dizer diz falar fala
 diz que nada nada
-diz diz fala palestras
-diz diz pensa pensa
-diz diz desaparece desaparece
-diz diz anda anda
-diz que o trabalho funciona
-diz diz que escreve escreve
-diz diz diminuição diminui
-diz diz descrever descreve
-diga diz come come
-diz diz melhorar aumenta
-diz diz estimativas estimadas
-diz diz encontrar achados
-diz diz gerar gera
-diz diz vai vai
-diz diz implemento implementa
-diz diz aumento aumenta
+dizer diz fala palestras
+dizer diz pensa
+dizer diz desaparece desaparece
+dizer diz andar anda
+diz que o trabalhar trabalha
+dizer diz que escreve escreve
+dizer diz diminuir diminui
+dizer diz descrever descreve
+diga diz comer come
+dizer diz melhorar melhora
+dizer diz estimativas estimadas
+dizer diz encontrar achados
+dizer diz gerar gera
+dizer diz ir vai
+dizer diz implemento implementa
+dizer diz aumento aumenta
 diga diz ouve escuta
-diz diz joga jogar
-diz diz prever prediz
+dizer diz jogar jogar
+dizer diz prever prediz
 dizer diz que fornece fornece
-gritar gritos pesquisas de pesquisa
+gritar gritos pesquisar pesquisa
 gritar gritos ver vê
 gritar gritos embaralhar baralhar
 gritar gritos cantar canta
-grito gritos sente-se senta
+grito gritos sentar senta
 grito grita lento desacelera
 gritar gritos falar fala
 grito grita nadar nada
-grito grita conversa fala
-gritar gritos acho que pensa
+grito grita falar fala
+gritar gritos pensar pensa
 gritar gritos desaparecer desaparece
 Grito grita Caminhadas
 gritar grita obras de trabalho
@@ -19138,7 +19137,7 @@ gritar grita escrever escreve
 gritar grita diminuir diminui
 gritar gritos descrever descreve
 gritar gritos comem come
-gritar gritos melhorar aumenta
+gritar gritos melhorar melhora
 gritar gritos estimar estimativas
 gritar gritos encontrar achados
 gritar grita gerar gera
@@ -19150,303 +19149,303 @@ gritar gritos jogar jogos
 grito grita prever prediz
 gritar gritos fornecem fornece
 gritar gritos dizem diz
-pesquisas de pesquisa ver vê
-pesquisas de pesquisa embaralhar embaralha
+pesquisar pesquisa ver vê
+pesquisar pesquisa embaralhar embaralha
 pesquisas de busca cantar canta
-pesquisas de pesquisa sente-se senta
-pesquisas de pesquisa lentidão lenta
-pesquisas de pesquisa falam fala
+pesquisar pesquisa sentar senta
+pesquisar pesquisa devagar lenta
+pesquisar pesquisa falam fala
 pesquisa procura nadar nada
-buscas em pesquisas talk talks
-pesquisas de pesquisa acha que pensa
-pesquisas de pesquisa desaparecem desaparece
+buscas em pesquisas falar fala
+pesquisar pesquisa pensar pensa
+pesquisar pesquisa desaparecem desaparece
 pesquisar pesquisas andar caminhadas
-pesquisas de pesquisa trabalhos de trabalho
-pesquisas de pesquisa escrever escritas
-pesquisas de pesquisa diminuem diminuições
-pesquisas de pesquisa descrevem descreve
-pesquisas de pesquisa comem come
-pesquisas de pesquisa aumentam os aprimoramentos
-pesquisas de pesquisa estimam estimativas
-pesquisas de pesquisa encontram
-pesquisas de pesquisa geram gera
-pesquisas de pesquisa vai vai
-pesquisas de pesquisa implementam implementos
-pesquisas de pesquisa aumentam aumentos
-pesquisas de pesquisa ouça ouvintes
-pesquisas de pesquisa reproduzir reproduções
-pesquisas de pesquisa predizem prediz
-pesquisas de pesquisa fornecem
+pesquisar pesquisa trabalhar de trabalho
+pesquisar pesquisa escrever escritas
+pesquisar pesquisa diminuem diminuições
+pesquisar pesquisa descrevem descreve
+pesquisar pesquisa comem come
+pesquisar pesquisa aumentam os aprimoramentos
+pesquisar pesquisa estimam estimativas
+pesquisar pesquisa encontram
+pesquisar pesquisa geram gera
+pesquisar pesquisa ir vai
+pesquisar pesquisa implementar implementa
+pesquisar pesquisa aumentam aumentos
+pesquisar pesquisa ouça ouvintes
+pesquisar pesquisa reproduzir reproduções
+pesquisar pesquisa predizem prediz
+pesquisar pesquisa fornecem
 pesquisas dizem diz
 buscas de pesquisa gritam gritos
-veja vê shuffle shuffles
+veja vê embaralhar embaralha
 veja vê cantar canta
-veja vê sente-se senta
-veja vê lentidão lenta
-veja vê fala fala
+veja vê sentar senta
+veja vê devagar lenta
+veja vê falar fala
 ver vê nadar nada
 veja vê palestras
-veja vê pensa pensa
+veja vê pensa
 veja vê desaparece desaparece
 veja vê passeios a pé
 veja vê obras
 veja vê escreve escreve
-veja vê diminuição diminui
+veja vê diminuir diminui
 veja vê descrever descreve
-veja vê come come
+veja vê comer come
 veja vê melhora aumenta
 veja vê estimativas estimadas
 veja vê encontra achados
-veja vê gera gerar
-veja vê vai vai
+veja vê gerar gerar
+veja vê ir vai
 veja veja implementa implementos
 veja vê aumento aumenta
 veja vê ouve escuta
 veja vê play play
 veja vê prever prediz
 veja vê fornece fornecer
-veja vê diz diz
+veja vê dizer diz
 ver vê gritos de grito
-ver vê pesquisas de pesquisa
-shuffle shuffles cantar canta
-shuffle shuffles sit senta
-shuffle shuffles lentidão lenta
-shuffle shuffles speak fala
-shuffle shuffles nadar nada
-shuffle shuffles conversa fala
-shuffle shuffles acha que pensa
-shuffle shuffles sumir desaparece
-shuffle shuffles andar anda
-shuffle shuffles trabalhos trabalhos
-shuffle shuffles escrever escreve
-shuffle shuffles diminuem diminuições
-shuffle shuffles describe descreve
-shuffle shuffles come come
-shuffle shuffles melhorar aprimora
-shuffle shuffles estima estimativas
-shuffle shuffles encontrar encontra
-shuffle shuffles gerar gera
-shuffle shuffles ir vai
-shuffle shuffles implementar implementos
-shuffle shuffles aumentam aumentos
-shuffle shuffles ouve ouve
-shuffle shuffles jogar peças
-shuffle shuffles prever prediz
-shuffle shuffles provide fornece
-shuffle shuffles diz diz
-shuffle shuffles gritar gritos
-shuffle shuffles pesquisas de pesquisa
-Shuffle shuffles ver vê
-cantar canta sente-se senta
-cantar canta lentidão lenta
+ver vê pesquisar pesquisa
+embaralhar embaralha cantar canta
+embaralhar embaralha sit senta
+embaralhar embaralha devagar lenta
+embaralhar embaralha falar fala
+embaralhar embaralha nadar nada
+embaralhar embaralha falar fala
+embaralhar embaralha pensar pensa
+embaralhar embaralha sumir desaparece
+embaralhar embaralha andar anda
+embaralhar embaralha trabalhar trabalhar
+embaralhar embaralha escrever escreve
+embaralhar embaralha diminuem diminuições
+embaralhar embaralha describe descreve
+embaralhar embaralha comer come
+embaralhar embaralha melhorar aprimora
+embaralhar embaralha estimar estima
+embaralhar embaralha encontrar encontra
+embaralhar embaralha gerar gera
+embaralhar embaralha ir vai
+embaralhar embaralha implementar implementos
+embaralhar embaralha aumentam aumentos
+embaralhar embaralha ouve ouve
+embaralhar embaralha jogar peças
+embaralhar embaralha prever prediz
+embaralhar embaralha provide fornece
+embaralhar embaralha dizer diz
+embaralhar embaralha gritar gritos
+embaralhar embaralha pesquisar pesquisa
+embaralhar embaralha ver vê
+cantar canta sentar senta
+cantar canta devagar lenta
 cantar canta falar fala
 cantar canta nada nada
-cantar canta conversa fala
-cantar canta pensa pensa
+cantar canta falar fala
+cantar canta pensa
 cantar canta desaparecer desaparece
 cantar canta andar anda
-cantar canta trabalhos
+cantar canta trabalhar
 cantar canta escrever escreve
 cantar canta diminuir diminui
 cantar canta descrever descreve
 cantar canta comer come
-cantar canta melhorar aumenta
-cantar canta estimativa estimativas
-cantar canta achado encontra
+cantar canta melhorar melhora
+cantar canta estimar estima
+cantar canta encontrar encontra
 cantar canta gerar gera
-cantar canta vai vai
+cantar canta ir vai
 cantar canta implementar implementos
 cantar canta aumento aumenta
 cantar canta escuta ouve
 cantar canta tocar peças
 cantar canta prever prevê
 cantar canta fornecer fornece
-cantar canta diz diz
+cantar canta dizer diz
 cantar canta gritar grita
 cantar canta pesquisas
 cantar canta ver vê
-cantar canta aleatoriamente shuffle
-sente-se senta lento diminui
-sente-se senta fala fala
-sente-se senta nadar nada
-sente-se senta conversa fala
-senta senta pensa pensa
-sente-se senta desaparece desaparece
-sente-se senta anda anda
-sente-se senta trabalhos de trabalho
-sente-se senta escreve escreve
-sente-se senta diminui diminui
-senta senta descreve descreve
-sente-se senta come come
-sentar senta-se melhorar aumenta
-sente-se senta estimativas estimadas
+cantar canta embaralhar embaralha
+sentar senta lento diminui
+sentar senta falar fala
+sentar senta nadar nada
+sentar senta falar fala
+sentar senta pensa
+sentar senta desaparece desaparece
+sentar senta andar anda
+sentar senta trabalhar de trabalho
+sentar senta escreve escreve
+sentar senta diminuir diminui
+sentar senta descrever descreve
+sentar senta comer come
+sentar senta-se melhorar melhora
+sentar senta estimativas estimadas
 sentar senta encontrar achados
-sente-se senta gerar gera
-sente-se senta vai vai
-senta senta implementa implementa
-sente-se aumenta aumento aumenta
-sente-se senta escuta escuta
-sentar senta joga jogos
-sente-se senta predizer prevê
-sente-se senta fornece fornecer
-sente-se senta diz diz
-sente-se senta gritos de grito
-sente-se procura pesquisas de pesquisa
+sentar senta gerar gera
+sentar senta ir vai
+sentar senta implementa implementa
+sentar senta aumento aumenta
+sentar senta escutar escuta
+sentar senta jogar joga
+sentar senta predizer prevê
+sentar senta fornece fornecer
+sentar senta dizer diz
+sentar senta gritos de grito
+sentar semta pesquisar pesquisa
 sentar senta ver vê
-sente-se senta baralha
+sentar senta baralha
 sentar senta cantar canta
-lentidão lenta fala fala
-Lentos lentos nadam nada
-fala lenta fala conversas
-lentidão lenta acha que pensa
-demora lenta desaparece desaparece
-lentidão lenta anda anda
-lentidão retarda obras
-lentidão lenta escreve escreve
-lentidão lenta diminui diminui
-lentidão lenta descreve descreve
-lentidão lenta come come
-lentidão lenta melhora aumenta
-lentidão lenta estima estimativas
-lentidão lenta encontrar encontra
-lentidão lenta gera gera
-lentidão lenta vai vai
-lento diminui implementa implementos
-lentidão lenta aumenta aumentos
-lentidão lenta escuta escuta
-lentidão lenta joga joga
-lentidão lenta prever prediz
-lentidão lenta fornecer fornece
-lentidão lenta diz diz
+devagar lenta falar fala
+devagar lenta nadar nada
+devagar lenta fala conversas
+devagar lenta pensar pensa
+devagar lenta desaparece desaparece
+devagar lenta andar anda
+devagar lenta trabalhar trabalha
+devagar lenta escreve escreve
+devagar lenta diminuir diminui
+devagar lenta descrever descreve
+devagar lenta comer come
+devagar lenta melhora aumenta
+devagar lenta estimar estima
+devagar lenta encontrar encontra
+devagar lenta gerar gera
+devagar lenta ir vai
+devagar lenta implementat implementa
+devagar lenta aumenta aumentos
+devagar lenta escutar escuta
+devagar lenta jogar joga
+devagar lenta prever prediz
+devagar lenta fornecer fornece
+devagar lenta dizer diz
 lento diminui gritos gritos
-lento retarda pesquisas de pesquisa
-lentidão lenta ver vê
-lentos e lentos shuffle shuffles
+lento retarda pesquisar pesquisa
+devagar lenta ver vê
+lentos e lentos embaralhar embaralhas
 lenta lentidão cantar canta
-lentidão lenta sente-se senta
-fala fala nadar nada
-fala fala fala fala
-fala fala pensa pensa
-fala fala desaparece desaparece
-fala fala anda anda
-fala fala obras
-fala fala escreve escreve
-fala fala diminui diminui
-fala fala descreve descreve
-fala fala come come
-falar fala melhorar aumenta
-fala fala estimativas estimadas
-fala fala encontra achados
-fala fala gerar gera
-fala fala vai vai
+devagar lenta sentar senta
+falar fala nadar nada
+falar fala falar fala
+falar fala pensa
+falar fala desaparece desaparece
+falar fala andar anda
+falar fala obras
+falar fala escreve escreve
+falar fala diminuir diminui
+falar fala descrever descreve
+falar fala comer come
+falar fala melhorar melhora
+falar fala estimativas estimadas
+falar fala encontra achados
+falar fala gerar gera
+falar fala ir vai
 falar fala implemento implementos
-fala fala aumento aumenta
-fala fala escuta escuta
-fala fala joga joga
+falar fala aumento aumenta
+falar fala escutar escuta
+falar fala jogar joga
 falar fala prever prediz
-fala fala fornece fornece
-fala fala diz diz
-fala fala grita grita
-fala fala pesquisas de pesquisa
+falar fala fornece fornece
+falar fala dizer diz
+falar fala grita grita
+falar fala pesquisar pesquisa
 falar fala ver vê
 falar fala embaralhar embaralha
 falar fala cantar canta
-falar fala sente-se senta
-fala fala lentidão lenta
+falar fala sentar senta
+falar fala devagar lenta
 nada fala conversas
-nadar nada pensa pensa
+nadar nada pensa
 nadar nada desaparece desaparece
 nadar nada andar a pé
 nadar nada obras de trabalho
 nadar nada escreve escreve
-nadar nada diminui diminui
+nadar nada diminuir diminui
 nade nadar descrever descreve
 nadar nada comer come
 nadar nada melhora aumenta
-nadar nada estimativa estimativas
+nadar nada estimar estima
 nadar nada encontrar encontra
-nadar nada gera gera
-nadar nada vai vai
+nadar nada gerar gera
+nadar nada ir vai
 nadar nada implementa implementos
 natação nada aumento aumenta
 nadar nada escuta ouve
 nadar nada jogos
 nadar nada prediz predições
 nadar nada fornece fornece
-nadar nada diz diz
-nadar nade grita gritos
+nadar nada dizer diz
+nadar nade gritar grita
 nade natação pesquisa pesquisas
 nadar nada ver vê
 nadar nada baralhar baralhar
 nadar nada cantar canta
-nadar nada sente-se senta
-nadar nada lentidão lenta
-nadar nada fala fala
-talk talks acha que pensa
+nadar nada sentar senta
+nadar nada devagar lenta
+nadar nada falar fala
+falar fala pensar pensa
 falar palestra desaparece desaparece
-fala fala anda anda
-fala fala trabalhos trabalhos
+falar fala andar anda
+falar fala trabalhar trabalhar
 falar fala escrever escreve
-falar conversas diminuir diminui
-talk talks descrever descreve
-conversa fala come come
-fala fala melhorar aumenta
-falar fala estimativa estimativas
-falar palestras encontrar achados
-talk talks geram gera
-fala fala vai vai
-talk talks implementar implementos
-talk talks aumenta aumentos
-talk talks ouvir escuta
-conversa fala jogo toca
-falar palestras prever prediz
-talk talks fornece fornece
-fala fala diz diz
-fala fala grita grita
-conversas conversas pesquisas de pesquisa
-falar conversas ver vê
-talk talks shuffle shuffles
-fala fala cantar canta
-falar conversas sente-se senta
-fala fala lentidão lenta
-fala fala fala fala
-fala fala nadar nada
-pense pensa que desaparece desaparece
-acha que pensa andar anda
-acho que pensa que o trabalho funciona
-pense pensa escreve escreve
-acho que pensa diminuição diminui
-acho que acha que descrever descreve
-pense pensa come come
-pense acha que aumenta aumenta
-acho que pensa estimativas estimadas
-acha que acha encontra achados
-acho que pensa gerar gera
-pense pensa vai vai
-acho que pensa implemento implementa
-acho que pensa aumento aumenta
-acho que acha ouve escuta
-acho que pensa joga joga
-acho que pensa prever prediz
-acho que pensa fornece fornece
-acho que pensa diz diz
-acho que pensa grita gritos
-acha que pesquisas de pesquisa
-acho que pensa vê vê
-acha que pensa embaralhar embaralha
-acho que pensa cantar canta
-acho que pensa sente-se senta
-acho que pensa lentidão lenta
-acho que pensa fala fala
-acho que pensa nadar nada
-acha que pensa fala fala
+falar fala diminuir diminui
+falar fala descrever descreve
+falar fala comer come
+falar fala melhorar melhora
+falar fala estimar estima
+falar fala encontrar achados
+falar fala geram gera
+falar fala ir vai
+falar fala implementar implementos
+falar fala aumenta aumentos
+falar fala ouvir escuta
+falar fala jogo toca
+falar fala prever prediz
+falar fala fornece fornece
+falar fala dizer diz
+falar fala grita grita
+conversar conversa pesquisar pesquisa
+falar fala ver vê
+falar fala embaralhar embaralha
+falar fala cantar canta
+falar fala sentar senta
+falar fala devagar lenta
+falar fala falar fala
+falar fala nadar nada
+pensar pensa desaparece desaparece
+pensar pensa andar anda
+pensar pensa que o trabalhar trabalha
+pensar pensa escreve escreve
+pensar pensa diminuir diminui
+pensar pensa descrever descreve
+pensar pensa comer come
+pensar pensa aumenta aumenta
+pensar pensa estimativas estimadas
+pensar pensa encontra achados
+pensar pensa gerar gera
+pensar pensa ir vai
+pensar pensa implemento implementa
+pensar pensa aumento aumenta
+pensar pensa ouve escuta
+pensar pensa jogar joga
+pensar pensa prever prediz
+pensar pensa fornece fornece
+pensar pensa dizer diz
+pensar pensa gritar grita
+pensar pensa pesquisar pesquisa
+pensar pensa ver ve
+pensar pensa embaralhar embaralha
+pensar pensa cantar canta
+pensar pensa sentar senta
+pensar pensa devagar lenta
+pensar pensa falar fala
+pensar pensa nadar nada
+pensar pensa falar fala
 desaparecer desaparece passeios a pé
-desaparecer desaparece obras
+desaparecer desaparece 
 desaparecer desaparece escrever escreve
-desaparecer desaparece diminuição diminui
+desaparecer desaparece diminuit diminui
 desaparecer desaparece descrever descreve
-desaparecer desaparece come come
-desaparecer desaparece melhorar aumenta
+desaparecer desaparece comer come
+desaparecer desaparece aumentar aumenta
 desaparecer desaparece estimativas estimadas
 desaparecer desaparece encontrar achados
 desaparecer desaparece gerar gera
@@ -19459,100 +19458,100 @@ desaparecer desaparece prever prediz
 desaparecer desaparece fornecer fornece
 desaparecer desaparece dizer diz
 desaparecer desaparece grito gritos
-desaparecer desaparece pesquisas de pesquisa
+desaparecer desaparece pesquisar pesquisa
 desaparecer desaparece ver vê
-desaparecer desaparece shuffle shuffles
+desaparecer desaparece embaralhar embaralha
 desaparecer desaparece cantar canta
-desaparecer desaparece sente-se senta
-desaparecer desaparece lentidão lenta
-desaparecer desaparece fala fala
+desaparecer desaparece sentar senta
+desaparecer desaparece devagar lenta
+desaparecer desaparece falar fala
 desaparecer desaparece nadar nada
-desaparecer desaparece falar palestras
-desaparecer desaparece acho que pensa
-Caminhada anda trabalha obras
+desaparecer desaparece falar fala
+desaparecer desaparece pensar pensa
+Caminhada anda trabalha trabalhar trabalha
 andar anda escrever escreve
 andar anda diminuir diminui
 andar anda descrever descreve
-Caminhadas Comer come
-Caminhadas aprimoram
-Caminhadas Estimativas Estimativas
-andar a pé encontrar encontra
-passeios a pé gerar gera
-andar anda vai vai
+caminhar caminha comer come
+caminhar caminha aprimoram
+caminhar caminha estimar estimativas
+caminhar caminha encontrar encontra
+caminhar caminha gerar gera
+andar anda ir vai
 andar anda implemento implementa
 caminhadas aumenta caminhadas aumenta
-andar anda escuta escuta
+andar anda escutar escuta
 andar anda jogar jogos
-caminhada anda predizer prediz
-Caminhada fornece fornece fornece
-andar anda diz diz
+caminhar caminha predizer prediz
+caminhar caminha fornece fornece
+andar anda dizer diz
 andar anda gritar gritos
-Caminhadas Caminhadas Pesquisas de pesquisa
-andar a pé ver vê
+Caminhar Caminhadas Pesquisar de pesquisa
+caminhar caminha ver vê
 andar anda baralhar embaralha
 andar anda cantar canta
-andar anda sente-se senta
-caminhe devagar desacelera
-andar anda fala fala
+andar anda sentar senta
+caminhar caminha devagar desacelera
+andar anda falar fala
 andar anda nadar nada
-andar anda falar palestras
+andar anda falar fala
 andar anda acho pensa
-caminhada anda desaparecer desaparece
-trabalhos de trabalho escrever escreve
-trabalhos diminuem diminui
-trabalhos descrevem descreve
-trabalhos de trabalho comem come
-trabalhos de trabalho melhorar realça
-estimativas de estimativas de obras
-trabalhos de trabalho encontram achados
-obras funcionam gerar gera
-obras funciona vai vai
-trabalhos trabalhos implementam implementos
-obras aumentam aumentos
-trabalhos de trabalho escutar escuta
-trabalhos trabalha jogam jogos
-obras de trabalho predizer prevê
-trabalhos fornecem fornecer
-obras funciona diz diz
-trabalho funciona gritar gritos
-pesquisas de pesquisa de trabalhos
-trabalhos de trabalho ver vê
-trabalhos trabalha shuffle shuffles
-trabalhos de trabalho cantam canta
-trabalho funciona sente-se senta
-obras funcionam lentidão lenta
-trabalhos de trabalho falam fala
-trabalhos de trabalho nadar nada
-trabalhos de trabalho falam conversas
-trabalhos de trabalho acho que pensa
-obras desaparecem desaparece
-trabalhos de obras
-escrever escreve diminui diminui
+andar anda desaparecer desaparece
+trabalhar trabalha escrever escreve
+trabalhar diminuem diminui
+trabalhar descrevem descreve
+trabalhar trabalha comer come
+trabalhar trabalha melhorar realça
+trabalhar trabalha estimativar estimativa
+trabalhar de trabalho encontram achados
+trabalhar trabalha gerar gera
+trabalhar trabalha ir vai
+trabalhar trabalhar implementar implementa
+trabalhar trabalha aumentar aumenta
+trabalhar trabalha escutar escuta
+trabalhar trabalha jogar jogo
+trabalhar trabalha  predizer prevê
+trabalhar trabalha  fornecer fornece
+trabalhar trabalha dizer diz
+trabalhar trabalha gritar gritos
+trabalho trabalha pesquisar pesquisas
+trabalho trabalha ver vê
+trabalhar trabalha embaralhar embaralha
+trabalhar trabalha cantar canta
+trabalhar trabalha sentar senta
+trabalhar trabalha devagar lenta
+trabalhar trabalha falar fala
+trabalhar trabalha nadar nada
+trabalhar trabalha falam conversas
+trabalhar trabalha acho pensa
+trabalhar trabalha desaparecem desaparece
+trabalhar trabalha caminho caminha
+escrever escreve diminuir diminui
 escrever escreve descrever descreve
-escrever escreve come come
+escrever escreve comer come
 escrever escreve melhorar aprimora
 escrever escreve estimativas estimadas
 escrever escreve encontrar achados
 escrever escreve gerar gera
-escrever escreve vai vai
+escrever escreve ir vai
 escrever escreve implemento implementa
-escrever escreve aumentos de aumento
+escrever escreve aumentar aumenta
 escrever escreve escuta ouve
-escrever escreve joga joga
+escrever escreve jogar joga
 escrever escreve prediz predições
 escrever escreve fornecer fornece
-escrever escreve diz diz
-escrever escreve grita gritos
+escrever escreve dizer diz
+escrever escreve gritar grita
 escrever escreve pesquisas
 escrever escreve ver vê
-escrever escreve shuffle shuffles
+escrever escreve embaralhar embaralha
 escrever escreve cantar canta
-escrever escreve sente-se senta
-escrever escreve lentidão lenta
-escrever escreve fala fala
+escrever escreve sentar senta
+escrever escreve devagar lenta
+escrever escreve falar fala
 escrever escreve nadar nada
-escreva escreve fala fala
-escrever escreve acha que pensa
+escrever escreve falar fala
+escrever escreve pensar pensa
 escrever escreve desaparece desaparece
-escrever escreve anda anda
-escrever escreve trabalhos
+escrever escreve andar anda
+escrever escreve trabalhar
