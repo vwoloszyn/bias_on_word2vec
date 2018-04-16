@@ -12,7 +12,7 @@ PKG_DIR = os.path.dirname(os.path.abspath(__file__))
 
 
 def load_professions():
-    professions_file = os.path.join(PKG_DIR, '../data', 'professions_pt.json')
+    professions_file = os.path.join(PKG_DIR, '../data', 'professions.json')
     with open(professions_file, 'r') as f:
         professions = json.load(f)
     print('Loaded professions\n' +
