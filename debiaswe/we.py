@@ -52,7 +52,9 @@ class WordEmbedding:
         print("*** Reading data from " + fname)
         if fname.endswith(".bin"):
             import gensim.models
+            #from gensim.models import KeyedVectors
             model =gensim.models.KeyedVectors.load_word2vec_format(fname, binary=True)
+            #model = gensim.models.KeyedVectors.load_word2vec_format('./embeddings/cbow_s300.txt', unicode_errors="ignore")
             words = sorted([w for w in model.vocab], key=lambda w: model.vocab[w].index)
             vecs = [model[w] for w in words]
         else:
@@ -60,10 +62,15 @@ class WordEmbedding:
             words = []
 
             with open(fname, "r", encoding='utf8') as f:
-                for line in f:
+                for i, line in enumerate(f):
                     s = line.split()
+                    print(i+1)
                     v = np.array([float(x) for x in s[1:]])
                     if len(vecs) and vecs[-1].shape!=v.shape:
+                        #import sh
+                        #sh.sed('-i',k+'d',fname)
+                        #print('Line %d deleted', k)
+                        print(i+1)
                         print("Got weird line", line)
                         continue
     #                 v /= np.linalg.norm(v)
