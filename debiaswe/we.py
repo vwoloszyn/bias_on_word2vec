@@ -62,7 +62,7 @@ class WordEmbedding:
             words = []
             error_count=0
             if (backend_gensim):
-                model = KeyedVectors.load_word2vec_format('./cbow_s300.txt', unicode_errors="ignore")
+                model = KeyedVectors.load_word2vec_format(fname, unicode_errors="ignore")
                 words=[]
                 vecs=[]
                 for w in model.vocab: 
