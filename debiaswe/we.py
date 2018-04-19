@@ -4,6 +4,8 @@ import sys
 import numpy as np
 import scipy.sparse
 from sklearn.decomposition import PCA
+from gensim.models import KeyedVectors
+
 if sys.version_info[0] < 3:
     import io
     open = io.open
@@ -45,36 +47,41 @@ def to_utf8(text, errors='strict', encoding='utf8'):
 
 
 class WordEmbedding:
-    def __init__(self, fname):
+    def __init__(self, fname, backend_gensim=False):
         self.thresh = None
         self.max_words = None
         self.desc = fname
         print("*** Reading data from " + fname)
         if fname.endswith(".bin"):
-            #import gensim.models
-            #from gensim.models import KeyedVectors
-            #model =gensim.models.KeyedVectors.load_word2vec_format(fname, binary=True)
-            #model = gensim.models.KeyedVectors.load_word2vec_format(fname, unicode_errors="ignore")
-            from gensim.models import KeyedVectors
-            model = KeyedVectors.load_word2vec_format(fname, unicode_errors="ignore")
+            import gensim.models
+            model =gensim.models.KeyedVectors.load_word2vec_format(fname, binary=True)
             words = sorted([w for w in model.vocab], key=lambda w: model.vocab[w].index)
             vecs = [model[w] for w in words]
         else:
             vecs = []
             words = []
-
-            with open(fname, "r", encoding='utf8') as f:
-                for i, line in enumerate(f):
-                    s = line.split()
-                    #print(i+1)
-                    v = np.array([float(x) for x in s[1:]])
-                    if len(vecs) and vecs[-1].shape!=v.shape:
-                        print(i+1)
-                        print("Got weird line", line)
-                        continue
-    #                 v /= np.linalg.norm(v)
-                    words.append(s[0])
-                    vecs.append(v)
+            error_count=0
+            if (backend_gensim):
+                model = KeyedVectors.load_word2vec_format('./cbow_s300.txt', unicode_errors="ignore")
+                words=[]
+                vecs=[]
+                for w in model.vocab: 
+                    words.append(w)
+                    vecs.append(model.wv[w])
+                
+            else:
+                with open(fname, "r", encoding='utf8') as f:
+                    for line in f:
+                        s = line.split(" ")
+                        v = np.array([float(x) for x in s[1:]])
+                        if len(vecs) and vecs[-1].shape!=v.shape:
+                            error_count+=1
+                            print("Got weird line", line.split(" ")[0])
+                            continue
+        #                 v /= np.linalg.norm(v)
+                        words.append(s[0])
+                        vecs.append(v)
+        #print print("Total of errors= ", error_count)
         self.vecs = np.array(vecs, dtype='float32')
         print(self.vecs.shape)
         self.words = words
