@@ -38,3 +38,5 @@
 ('síndica', 'síndico')
 ('vendedora', 'vendedor')
 ('veterinária', 'veterinário')
+('tutora', 'tutor')
+('socióloga', 'sociólogo')
