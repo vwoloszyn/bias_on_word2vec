@@ -38,6 +38,8 @@ def debias(E, gender_specific_words, definitional, equalize):
             E.vecs[E.index[b]] = -z * gender_direction + y
     E.normalize()
 
+    return E
+
 
 if __name__ == "__main__":
 
