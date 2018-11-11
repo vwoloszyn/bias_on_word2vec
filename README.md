@@ -7,7 +7,7 @@ In this work, we propose an analysis of the presence of gender bias in Portugues
 
 
 ## How to cite
-PDF - https://www.researchgate.net/publication/328212897_Is_there_Gender_bias_and_stereotype_in_Portuguese_Word_Embeddings
+ [PDF](https://www.researchgate.net/publication/328212897_Is_there_Gender_bias_and_stereotype_in_Portuguese_Word_Embeddings)
 
 ```
 @article{santana2018there,
