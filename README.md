@@ -1,6 +1,6 @@
 # Man is to Computer Programmer as Woman is to Homemaker? Debiasing Word Embeddings
 
-In this work, we propose an analysis of the presence of gender bias in Portuguese word embeddings. The objective of this work is to study gender implications related to stereotyped professions for women and men in the context of the Portuguese language. 
+In this work,  we propose to employ a public word2vec model pre-trained to analyzegender bias in the Portuguese language, quantifying biases present in the modelso that it is possible to reduce the spreading of sexism of such models. 
 
 
 
